@@ -1,0 +1,22 @@
+页面对象模式：
+页面类包含(页面服务{注册操作、登录操作}、页面元素{用户名输入框、密码输入框、按钮})
+
+注册操作返回(注册成功页面、注册失败页面)
+
+项目扩展：
+1.需要增加更多的页面文件
+2.增加case
+项目部分：如图mztestpro.png
+注意：再启动selenium server时经常出现 Error forwarding the new session Empty pool of VM for setup问题
+解决办法：打开http://localhost:4444/grid/console去查看是否有node连接到hub上
+Also, you could just run the standalone server as a hub and a node
+together by starting it without specifying a role: java -jar selenium-server-standalone-3.0.1.jar
+start.bat文件命令改为(-role hub)：java -jar ./driver/selenium-server-standalone-3.7.1.jar
+
+遗留问题：
+desc：封装setup和teardown函数在myunit模块，在login_sta模块调用myunit,但是在discover中发现tests=[];
+尝试1：login_sta模块直接继承unitt.Testcase,discover能够检测到tests
+尝试2: 将myunit的class直接放入login_sta模块，直接继承，在discover中发现tests=[];
+尝试3：
+
+

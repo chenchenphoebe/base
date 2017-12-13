@@ -1,0 +1,9 @@
+项目说明：采用了数据分离的模式
+1.对麦子学院网站的登录进行测试
+2.使用读取text文件、运用xlrd进行excel用户数据的读取
+3.将最后的结果运用xlsxwriter，写到excel中
+
+model name1：综合各个模块的功能
+mode2 infoRead:读取excel中的数据
+mode3 writeLog:将测试信息写入excel中
+mode4 xlReadInfo：从excel中一行一行读取用户信息

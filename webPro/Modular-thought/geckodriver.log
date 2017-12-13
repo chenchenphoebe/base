@@ -1,0 +1,51 @@
+1510824255489	geckodriver	INFO	geckodriver 0.19.1
+1510824255496	geckodriver	INFO	Listening on 127.0.0.1:53918
+1510823710268	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.WNipsU8K2HxP"
+1510823710948	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510823711613	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 812028] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 812028] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510823716072	Marionette	INFO	Listening on port 52405
+1510823716485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510823716524	Marionette	DEBUG	Register listener.js for window 4294967297
+1510823716550	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510823716655	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510823716655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510823717058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.126.com/"
+1510823717137	Marionette	DEBUG	Received DOM event "pageshow" fUnable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 799884] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ to complete. Conditions: [{"name":"Crash Reporter: blocking on minidumpgeneration.","state":"(none)","filename":"z:/build/build/src/ipc/glue/CrashReporterHost.cpp","lineNumber":192,"stack":"Minidump generation"}] Barrier: profile-before-change
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 817052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 817052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 494: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: crash
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 494: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: crash
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+before-change
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 813120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

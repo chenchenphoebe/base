@@ -1,0 +1,30 @@
+1511342879440	geckodriver	INFO	geckodriver 0.19.1
+1511342879445	geckodriver	INFO	Listening on 127.0.0.1:62543
+1511342881477	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.POV8TpRuCpQb"
+1511342882098	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511342884095	Marionette	INFO	Listening on port 62550
+1511342884593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511342884640	Marionette	DEBUG	Register listener.js for window 4294967297
+1511342884719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511342884819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511342884819	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511342885563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/"
+1511342975978	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/"
+1511342976105	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.youdao.com/"
+1511342976222	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.youdao.com/"
+1511342976222	Marionette	DEBUG	Received DOM event "unload" for "http://www.youdao.com/"
+1511342976610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511342976611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511342976817	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/w/eng/webdriver/#keyfrom=dict2.index"
+1511343007293	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/w/eng/webdriver/#keyfrom=dict2.index"
+AnF6hhy/su?wd=unitte&json=1&p=3&sid=1435_21112_17001_25177_25147_20718&req=2&csor=6&pwd=unitt&cb=jQuery110203790927326962611_1511342876547&_=1511342876554, line 1: TypeError: jQuery110203790927326962611_1511342876547 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1435_21112_17001_25177_25147_20718&req=2&csor=8&pwd=unittes&cb=jQuery110203790927326962611_1511342876547&_=1511342876556, line 1: TypeError: jQuery110203790927326962611_1511342876547 is not a function
+1511342877138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+channel_win.cc, line 346
+ not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=1433_24885_21118_25177_22159&req=2&csor=5&pwd=unit&cb=jQuery110209097946596918115_1511342582607&_=1511342582613, line 1: TypeError: jQuery110209097946596918115_1511342582607 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1433_24885_21118_25177_22159&req=2&csor=6&pwd=unitt&cb=jQuery110209097946596918115_1511342582607&_=1511342582614, line 1: TypeError: jQuery110209097946596918115_1511342582607 is not a function
+1511342583042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

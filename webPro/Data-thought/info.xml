@@ -1,0 +1,23 @@
+<!--<?xml version="1.0" encodind="GBK"?>-->
+<!--<info>-->
+    <!--<base>-->
+        <!--<platform>Windows</platform>-->
+        <!--<browser>Firefox</browser>-->
+        <!--<url>http://www.baidu.com</url>-->
+            <!--<login username = "admin"/>-->
+            <!--<login password = "admin"/>-->
+    <!--</base>-->
+    <!--<test>-->
+        <!--<province>beijing</province>-->
+    <!--</test>-->
+<!--</info>-->
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+   <explain>126</explain>
+      <url>http://www.126.com</url>
+      <null username="" password="">请先输入您的邮箱帐号</null>
+      <pawd_null username="testingwtb" password=""></pawd_null>
+      <user_null username="" password="a123456">
+      </user_null>
+      <error username="xxx" password="xxx"></error>
+</info>

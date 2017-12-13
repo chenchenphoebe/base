@@ -1,0 +1,48 @@
+1512549206258	geckodriver	INFO	geckodriver 0.19.1
+1512549206263	geckodriver	INFO	Listening on 127.0.0.1:52466
+1512549208259	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.odK1zydWJuMp"
+1512549209210	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 51264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 59724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 59724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512549214508	Marionette	INFO	Listening on port 52485
+1512549214539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512549214591	Marionette	DEBUG	Register listener.js for window 4294967297
+1512549214704	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512549215137	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512549215137	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b[Child 125880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 125880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 35896, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+09: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 82212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+omium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+10209992501814735895_1511508016117 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTMLTestRun&json=1&p=3&sid=1451_21091_25178_25144_20928&req=2&csor=11&pwd=HTMLTestRu&cb=jQuery110209992501814735895_1511508016117&_=1511508016129, line 1: TypeError: jQuery110209992501814735895_1511508016117 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTMLTestRunn&json=1&p=3&sid=1451_21091_25178_25144_20928&req=2&csor=12&pwd=HTMLTestRun&cb=jQuery110209992501814735895_1511508016117&_=1511508016130, line 1: TypeError: jQuery110209992501814735895_1511508016117 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTMLTestRunne&json=1&p=3&sid=1451_21091_25178_25144_20928&req=2&csor=13&pwd=HTMLTestRunn&cb=jQuery110209992501814735895_1511508016117&_=1511508016131, line 1: TypeError: jQuery110209992501814735895_1511508016117 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTMLTestRunner&json=1&p=3&sid=1451_21091_25178_25144_20928&req=2&csor=14&pwd=HTMLTestRunne&cb=jQuery110209992501814735895_1511508016117&_=1511508016132, line 1: TypeError: jQuery110209992501814735895_1511508016117 is not a function
+1511508016665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+77_25083_22160&req=2&csor=14&pwd=HTMLTestRunne&cb=jQuery110203077765876606715_1511329409470&_=1511329409485, line 1: TypeError: jQuery110203077765876606715_1511329409470 is not a function
+1511329409982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+11328907234&_=1511328907247, line 1: TypeError: jQuery110204622344661810669_1511328907234 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTMLTestRunner&json=1&p=3&sid=1460_24867_21112_17001_25178_22072&req=2&csor=14&pwd=HTMLTestRunne&cb=jQuery110204622344661810669_1511328907234&_=1511328907249, line 1: TypeError: jQuery110204622344661810669_1511328907234 is not a function
+1511328907675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

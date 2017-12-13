@@ -1,0 +1,81 @@
+1512379377490	geckodriver	INFO	geckodriver 0.19.1
+1512379377495	geckodriver	INFO	Listening on 127.0.0.1:57633
+1512379379428	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.VaxF9ZK5bvkf"
+1512379380401	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 48208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 156252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 156252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512379382882	Marionette	INFO	Listening on port 57641
+1512379383103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512379385304	Marionette	DEBUG	Register listener.js for window 4294967297
+1512379385332	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512379385413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512379385413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512379386077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.maiziedu.com/"
+1512379387143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512379392209	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.maiziedu.com/"
+1512379392805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512379398261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512379402348	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.maiziedu.com/home/?source=login"
+1512379402504	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.maiziedu.com/home/?source=login"
+1512379402506	Marionette	DEBUG	Received DOM event "unload" for "http://www.maiziedu.com/home/?source=login"
+1512379402643	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1512379402643	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1512379402730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.maiziedu.com/"
+1512379402831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1512379406560	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.maiziedu.com/"
+1512379406857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512379412253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512379414573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 70336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 70336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+w.maiziedu.com/"
+1512377668817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1512377672349	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.maiziedu.com/"
+1512377672647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512377678037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512377680899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 140168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 140168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+r: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+er Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 76500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 76500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 108380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

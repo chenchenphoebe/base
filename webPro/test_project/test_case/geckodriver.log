@@ -1,0 +1,31 @@
+1511253467506	geckodriver	INFO	geckodriver 0.19.1
+1511253467512	geckodriver	INFO	Listening on 127.0.0.1:53906
+1511253469509	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.Myy4pw8PDXge"
+1511253470061	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 320696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 320696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511253472371	Marionette	INFO	Listening on port 53914
+1511253472616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511253472659	Marionette	DEBUG	Register listener.js for window 4294967297
+1511253472769	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511253472883	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511253472883	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511253473703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/"
+1511253477649	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/"
+1511253477718	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.youdao.com/"
+1511253477803	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.youdao.com/"
+1511253477803	Marionette	DEBUG	Received DOM event "unload" for "http://www.youdao.com/"
+1511253477885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511253477885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511253478173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/w/eng/webdriver/#keyfrom=dict2.index"
+1511253478941	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/w/eng/webdriver/#keyfrom=dict2.index"
+: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 317852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+use no navigation has been detected

@@ -1,0 +1,26 @@
+1513044432361	geckodriver	INFO	geckodriver 0.19.1
+1513044432375	geckodriver	INFO	Listening on 127.0.0.1:57147
+1512625367520	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.lmYEIHrvbmAV"
+1512625370800	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 126076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 126076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512625376000	Marionette	INFO	Listening on port 65027
+1512625376997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512625377047	Marionette	DEBUG	Register listener.js for window 4294967297
+1512625377111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512625377124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512625377124	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512625377422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://10.128.161.36/mobileTestCenter/login.jsp"
+1512625377800	Marionette	DEBUG	Received DOM event "pageshow" for "http://10.128.161.36/mobileTestCenter/login.jsp"
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 72296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 74276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 72296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 138952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 138952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

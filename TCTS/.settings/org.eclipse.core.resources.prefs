@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/common/Base_Page.py=utf-8
+encoding//src/common/create_plan.py=utf-8
+encoding//src/common/create_project.py=utf-8
+encoding//src/common/create_scripts.py=utf-8
+encoding//src/common/create_task.py=utf-8
+encoding//src/common/getconfigs.py=UTF-8
+encoding//src/common/lock_project.py=utf-8
+encoding//src/common/log.py=utf-8
+encoding//src/common/login_tcloud.py=utf-8
+encoding//src/test_Feature.py=utf-8
+encoding//src/test_MTBF.py=utf-8
+encoding//src/test_case/1test_MTBF.py=utf-8
+encoding//src/test_case/runtest.py=utf-8
+encoding/writeInfo.py=utf-8

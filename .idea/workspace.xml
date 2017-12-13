@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/webPro/LoginSite/name1.py" line="111" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2e7094f-8e1e-4586-8805-fc5dd124f0f8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login_sta.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/login_sta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="41" />
+              <folding>
+                <element signature="e#22#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baidu_sta.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/baidu_sta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="e#115#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="document" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/document">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uni、.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webPro/testpro/uni、.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="e#22#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_bbs_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/run_bbs_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="driver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#22#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myunit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/myunit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#22#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>result.html</find>
+      <find>type</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\xuchun.chen\PycharmProjects\base\webPro\test_project\report</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/webPro/testpro/fingger.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/infoRead.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/info.text" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/littleLogin.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/writeLog.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/mailSend.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/sel_rc.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/remote_ts.py" />
+        <option value="$PROJECT_DIR$/webPro/multipackge/scrrenShot.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/models/function.py" />
+        <option value="$PROJECT_DIR$/webPro/HTML/locator.py" />
+        <option value="$PROJECT_DIR$/webPro/HTML/testbaidu.py" />
+        <option value="$PROJECT_DIR$/webPro/multipackge/meizuLogin.py" />
+        <option value="$PROJECT_DIR$/TCTS/writeInfo.py" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/common.ini" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/login_tcloud.py" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/log.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/plain" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/mod.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/submod.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/loggin.conf" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/main.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/otherLog.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/withinLog.py" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/excel_data.py" />
+        <option value="$PROJECT_DIR$/webPro/dealwithlog/mod.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/documentation" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/name1.py" />
+        <option value="$PROJECT_DIR$/webPro/LoginSite/xlReadInfo.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/loginPage.py" />
+        <option value="$PROJECT_DIR$/mztestpro/startup.bat" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/create_task.py" />
+        <option value="$PROJECT_DIR$/TCTS/src/test_MTBF.py" />
+        <option value="$PROJECT_DIR$/新建文本文档.txt" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/Base_Page.py" />
+        <option value="$PROJECT_DIR$/TCTS/src/test_Feature.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/data/mylog.log" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/models/log.py" />
+        <option value="$PROJECT_DIR$/mztestpro/login_sta.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/models/path.py" />
+        <option value="$PROJECT_DIR$/TCTS/src/common/send_email.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/BasePage.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/GoogleMainPage.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/base.py" />
+        <option value="$PROJECT_DIR$/webPro/testpro/uni、.py" />
+        <option value="$PROJECT_DIR$/mztestpro/document" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/models/myunit.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/baidu_sta.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/login_sta.py" />
+        <option value="$PROJECT_DIR$/mztestpro/bbs/test_case/models/driver.py" />
+        <option value="$PROJECT_DIR$/mztestpro/run_bbs_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="261" />
+    <option name="y" value="169" />
+    <option name="width" value="1400" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="mztestpro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="mztestpro" type="462c0819:PsiDirectoryNode" />
+              <item name="bbs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="mztestpro" type="462c0819:PsiDirectoryNode" />
+              <item name="bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="mztestpro" type="462c0819:PsiDirectoryNode" />
+              <item name="bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="mztestpro" type="462c0819:PsiDirectoryNode" />
+              <item name="bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="mztestpro" type="462c0819:PsiDirectoryNode" />
+              <item name="bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="page_obj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="TCTS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="TCTS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="TCTS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="webPro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="webPro" type="462c0819:PsiDirectoryNode" />
+              <item name="testpro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\mztestpro\bbs\test_case\models" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\mztestpro\bbs\report\image" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\mztestpro\bbs\test_case" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\mztestpro\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\webPro\dealwithlog" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\mztestpro" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base\webPro\test_project\test_case" />
+      <recent name="C:\Users\xuchun.chen\PycharmProjects\base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_bbs_test">
+    <configuration name="Unittests in testbaidu.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webPro/HTML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/webPro/HTML/testbaidu.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in uni1.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webPro/unni-test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/webPro/unni-test/uni1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="baidu_sta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mztestpro/bbs/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mztestpro/bbs/test_case/baidu_sta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="login_sta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mztestpro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mztestpro/login_sta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mztestpro/bbs/test_case/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mztestpro/bbs/test_case/models/path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_bbs_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mztestpro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mztestpro/run_bbs_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="uni、" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webPro/testpro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webPro/testpro/uni、.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in uni1.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testbaidu.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_bbs_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.login_sta" />
+      <item index="4" class="java.lang.String" itemvalue="Python.path" />
+      <item index="5" class="java.lang.String" itemvalue="Python.uni、" />
+      <item index="6" class="java.lang.String" itemvalue="Python.baidu_sta" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.run_bbs_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.baidu_sta" />
+        <item index="2" class="java.lang.String" itemvalue="Python.uni、" />
+        <item index="3" class="java.lang.String" itemvalue="Python.path" />
+        <item index="4" class="java.lang.String" itemvalue="Python.login_sta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2e7094f-8e1e-4586-8805-fc5dd124f0f8" name="Default" comment="" />
+      <created>1508235247429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508235247429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_meizuLogin_py - 2017.12.06 at 16h 52m 01s.xml">
+      <configuration name="Unittests in meizuLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_meizuLogin_py - 2017.12.06 at 16h 52m 58s.xml">
+      <configuration name="Unittests in meizuLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_meizuLogin_py - 2017.12.06 at 16h 53m 51s.xml">
+      <configuration name="Unittests in meizuLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_Feature_py - 2017.12.06 at 11h 32m 21s.xml">
+      <configuration name="Unittests in test_Feature.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_Feature_py - 2017.12.07 at 13h 42m 59s.xml">
+      <configuration name="Unittests in test_Feature.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_MTBF_py - 2017.12.12 at 10h 04m 33s.xml">
+      <configuration name="Unittests in test_MTBF.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testbaidu_py - 2017.12.06 at 16h 28m 00s.xml">
+      <configuration name="Unittests in testbaidu.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testbaidu_py - 2017.12.06 at 16h 29m 21s.xml">
+      <configuration name="Unittests in testbaidu.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testbaidu_py - 2017.12.06 at 16h 32m 15s.xml">
+      <configuration name="Unittests in testbaidu.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testbaidu_py - 2017.12.06 at 16h 33m 37s.xml">
+      <configuration name="Unittests in testbaidu.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.161875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5189048" sideWeight="0.5025" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15906128" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3963494" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33246416" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file/weChat.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/send_mail/sendmail.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/send_mail/sendmail.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/send_mail/baseemail.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/send_mail/baseemail.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/send_mail/qqmail.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mztestpro/hello_sta.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mztestpro/hello_sta.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/functionPackage/easy.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/test_project/runtest2.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/test_project/runtest2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/LoginSite/mailSend.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webPro/LoginSite/xlReadInfo.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/function.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TCTS/src/common/globalparameter.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TCTS/src/test_MTBF.py</url>
+          <line>301</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="53" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="discover._tests[0]._tests.__len__()" />
+        <watch expression="discover._tests[0]._tests" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webPro/LoginSite/sel_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webPro/LoginSite/writeLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webPro/LoginSite/infoRead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webPro/LoginSite/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="22" column="106" lean-forward="false" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="109" lean-forward="false" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/mztestpro.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/writeInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" column="58" lean-forward="false" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/ConfigParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="589" column="8" lean-forward="false" selection-start-line="589" selection-start-column="8" selection-end-line="589" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3188">
+          <caret line="247" column="28" lean-forward="true" selection-start-line="247" selection-start-column="28" selection-end-line="247" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-643">
+          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/新建文本文档.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="52" lean-forward="false" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="1044" column="32" lean-forward="false" selection-start-line="1044" selection-start-column="30" selection-end-line="1044" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="337" column="10" lean-forward="true" selection-start-line="337" selection-start-column="10" selection-end-line="337" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/test_MTBF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="59" column="26" lean-forward="false" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+          <folding>
+            <element signature="e#60#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/robotide/lib/robot/libraries/BuiltIn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="2218" column="8" lean-forward="false" selection-start-line="2218" selection-start-column="8" selection-end-line="2218" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/data/mylog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/common.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/test_Feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="124" column="20" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="20" />
+          <folding>
+            <element signature="e#46#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/Base_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/create_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/create_plan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/create_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="142" column="16" lean-forward="false" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/login_tcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/create_scripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="51" column="51" lean-forward="true" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
+          <folding>
+            <element signature="e#37#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/lock_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="61" lean-forward="true" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/globalparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#37#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/getconfigs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCTS/src/common/excel_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#36#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-762174762/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="4339" column="8" lean-forward="false" selection-start-line="4339" selection-start-column="8" selection-end-line="4339" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/GoogleMainPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/hello_sta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/report/image/user_pawd_ture.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/login_sta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="132" column="37" lean-forward="false" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="37" />
+          <folding>
+            <element signature="e#22#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/page_obj/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+          <folding>
+            <element signature="e#22#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webPro/testpro/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/document">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webPro/testpro/uni、.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#22#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/login_sta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="e#22#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/baidu_sta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#115#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#22#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/run_bbs_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/startup.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="55" lean-forward="true" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mztestpro/bbs/test_case/models/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#22#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
