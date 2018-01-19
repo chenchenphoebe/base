@@ -18,7 +18,7 @@ class McreateLog(object):
         fname = path + time.strftime('%Y-%m-%d-%H-%M-%S')
         self.row = 0
         self.xl = xlsxwriter.Workbook(path+fname+'.xls')
-        self.style = self.xl.add_format({'bg_color':'red'})
+        self.style = self.xl.add_format({'bg_color':'red'})#背景变成红色
 
     def xl_write(self,*args):
         col = 0

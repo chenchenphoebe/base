@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//common/__init__.py=utf-8
+encoding//common/chrome.py=UTF-8
+encoding//common/common.py=utf-8
+encoding//common/contact.py=UTF-8
+encoding//common/getconfigs.py=UTF-8
+encoding//common/navigation_L.py=UTF-8
+encoding//common/navigation_M.py=UTF-8
+encoding//common/phone.py=UTF-8
+encoding//common/settings.py=UTF-8
+encoding/01_Telephony.py=UTF-8
+encoding/02_Messaging.py=UTF-8
+encoding/04_Browser.py=utf-8
+encoding/04_chrome.py=utf-8
+encoding/06_Multi-Media.py=UTF-8
+encoding/07_Multi\ Tasking.py=UTF-8

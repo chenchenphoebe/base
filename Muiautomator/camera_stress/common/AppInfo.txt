@@ -1,0 +1,27 @@
+[Launcher]
+com.tct.launcher
+[Apps]
+com.tcl.live
+[Boost]
+com.tct.onetouchbooster
+[Calculator]
+com.tct.tablet.calculator
+[Calendar]
+com.google.android.calendar
+[Call]
+com.android.dialer
+[Phone]
+com.android.dialer
+[Camera]
+com.tct.tablet.camera
+[Email]
+com.tct.tablet.email
+[Files]
+com.jrdcom.filemanager
+[File Manager]
+com.tct.tablet.filemanager
+[Gallery]
+com.tct.tablet.gallery3d
+
+
+

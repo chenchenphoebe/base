@@ -46,14 +46,14 @@ class Baidu(MyTest):
 # if __name__ == '__main__':
 #修改当前执行模块为testbaidu，否则无法生成报告
 if __name__ == "__main__":
-    # testunit = unittest.TestSuite()
-    # testunit.addTest(Baidu("test_baidu_search"))
-    # now = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
-    # print(now)
-    # fp = file("result" + now + ".html", 'wb')
-    # #定义报告保存路径
-    # # fp = file('./testresult.html',"wb")
-    # runner = HTMLTestRunner(stream=fp, title="百度搜索报告", description="用例执行情况：")
-    # runner.run(testunit)
-    # fp.close()
-    unittest.main()
+    testunit = unittest.TestSuite()
+    testunit.addTest(Baidu("test_baidu_search"))
+    now = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
+    print(now)
+    fp = file("result" + now + ".html", 'wb')
+    #定义报告保存路径
+    # fp = file('./testresult.html',"wb")
+    runner = HTMLTestRunner(stream=fp, title="百度搜索报告", description="用例执行情况：")
+    runner.run(testunit)
+    fp.close()
+    # unittest.main()

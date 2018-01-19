@@ -4,6 +4,6 @@
 3.将最后的结果运用xlsxwriter，写到excel中
 
 model name1：综合各个模块的功能
-mode2 infoRead:读取excel中的数据
+mode2 infoRead:读取文档中的数据
 mode3 writeLog:将测试信息写入excel中
 mode4 xlReadInfo：从excel中一行一行读取用户信息

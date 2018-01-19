@@ -6,11 +6,12 @@ import os,sys
 '''
 配置日志文件，输出INFO级别以上的日志
 '''
-# log_path = os.path.append('../')+'mylog.log'
-# log_path = os.path.dirname(sys.path[0])
 project_path = os.path.dirname(sys.path[0])
-print(project_path)
-log_path = project_path+"\\data\\mylog.log"
+log_path = project_path+"\\report\\log\\mylog.log"
+# bbs_path = os.path.abspath(os.path.join(os.getcwd(), "../.."))
+# print bbs_path
+# log_path = bbs_path+"\\report\\log\\mylog.log"
+
 class log:
     def __init__(self):
         self.logname = "mylog"
@@ -55,3 +56,14 @@ class log:
 
     def error(self, msg):
         self.setMSG('error', msg)
+
+if __name__ == "__main__":
+    project_path = os.path.dirname(sys.path[0])
+    print(project_path)
+    '''获取上级目录'''
+    # print os.path.dirname(os.path.dirname(__file__))
+    # print os.path.dirname(os.getcwd())
+    # print os.path.dirname(sys.path[0])#C:\Users\xuchun.chen\PycharmProjects\base\mztestpro\bbs\test_case
+    '''获取上上级目录'''
+    # print os.path.abspath(os.path.join(os.getcwd(), "../.."))#C:\Users\xuchun.chen\PycharmProjects\base\mztestpro\bbs
+

@@ -39,7 +39,7 @@ if __name__ == "__main__":
     filename = "./bbs/report/"+now+'result.html'
     fp = open(filename,"wb")
     runner = HTMLTestRunner(stream=fp,title="魅族自动化测试报告",description="环境：windows 7 浏览器：Firefox")
-    discover = unittest.defaultTestLoader.discover(test_dir, pattern='login_sta.py')
+    discover = unittest.defaultTestLoader.discover(test_dir, pattern='search_sta.py')
     runner.run(discover)
     print(time.time())
     fp.close()

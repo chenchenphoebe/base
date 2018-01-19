@@ -1,0 +1,122 @@
+[Launcher]
+com.tct.launcher
+[Apps]
+com.tcl.live
+[Boost]
+com.tct.onetouchbooster
+[Calculator]
+com.tct.calculator
+[Calendar]
+com.google.android.calendar
+[Call]
+com.android.dialer
+[Phone]
+com.android.dialer
+[Ongoing call]
+com.android.dialer
+[Camera]
+com.tct.tablet.camera
+[Chrome]
+com.android.chrome
+[Contacts]
+com.android.dialer
+[Downloads]
+com.android.documentsui
+[Drive]
+com.google.android.apps.docs
+[Email]
+com.tct.email
+[Facebook]
+com.facebook.katana
+[Files]
+com.jrdcom.filemanager
+[Gallery]
+com.tct.tablet.gallery3d
+[Gmail]
+com.google.android.gm
+[Google]
+com.google.android.googlequicksearchbox
+[Hangouts]
+com.google.android.talk
+[Instagram]
+com.instagram.android
+[Keep]
+com.google.android.keep
+[Integrated_Test_Tool]
+com.goodix.test
+[Maps]
+com.google.android.apps.maps
+[MaxxAudio]
+com.waves.maxxaudio
+[Messaging]
+com.android.mms
+[Messenger]
+com.facebook.orca
+[Onetouch Cloud]
+com.tcl.account
+[Photos]
+com.google.android.apps.photos
+[Play Music]
+com.google.android.music
+[Play Store]
+com.android.vending
+[Radio]
+com.tct.fmradio
+[Settings]
+com.android.settings
+[SIM Toolkit]
+com.android.stk
+[SIMToolKit]
+com.android.stk
+[Sound Recorder]
+com.tct.soundrecorder
+[SwiftKey Keyboard]
+com.touchtype.swiftkey
+[SyncML Client]
+com.jrdcom.android.syncml
+[Clock]
+com.android.deskclock
+[Translate]
+com.google.android.apps.translate
+[Twitter]
+com.twitter.android
+[User Care]
+com.tcl.usercare
+[Voice Search]
+com.google.android.googlequicksearchbox
+[Weather]
+com.tct.weather
+[WhatsApp]
+com.whatsapp
+[YouTube]
+com.google.android.youtube
+[Browser]
+com.hawk.android.browser
+[Phone guard]
+com.tct.phoneguard
+[Support]
+com.rsupport.rs.activity.tcl
+[Updates]
+com.tcl.ota
+[Notes]
+com.jrdcom.vodafone.note
+[Video player]
+com.tct.videoplayer
+[Support Center]
+com.tcl.usercare
+[ColorCatcher]
+com.tct.colorcatcher
+[Theme Center]
+com.tcl.hawk.ts
+[drupe]
+mobi.drupe.app
+[drupe dialer]
+mobi.drupe.app
+[enjoy.now]
+com.alcatel.mcrm
+[Netflix]
+com.netflix.mediaclient
+[Music]
+com.alcatel.music5
+
+

@@ -37,7 +37,7 @@ class login(Page):
         self.find_element(By.XPATH,"//a[@id='login']").click()
 
     def user_login(self,username = 'username',password = "123456"):
-        self.open()
+        self.open1()
         # self.bbs_login()
         print("input uasername password")
         self.login_username(username)
