@@ -36,6 +36,7 @@ for TestTime in dicttest_times:
 logger.info("Trace Total Times " + str(test_times))
     
 def send_email(key,index,network_type):
+    # send_email('SendByWiFi',0,'WiFi')
     global suc_times
     times = int(dicttest_times.get(key.lower(),0))
     switch = True
@@ -43,7 +44,7 @@ def send_email(key,index,network_type):
         logger.debug("Send with %d attachemnt by %s %d Times" % (index, network_type, times))
         if not key.find('WiFi') > -1:
             switch = m_settings.switch_network(network_type, os.environ.get("MDEVICE"))
-        for loop in range (times):
+        for loop in range(times):
             try:
                 logger.debug('Forward email time %s', str(loop+1))
                 if switch and m_mail.stay_in_email() and m_mail.enter_mailbox("Inbox") and  m_mail.forward_email(index+1,random.choice(RECEIVERLIST)):

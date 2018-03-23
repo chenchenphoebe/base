@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>答题小能手-配置</title>
+
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?0da84f365439da761b4d1e4c0775f33b";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+</head>
+<style type="text/css">
+#config {
+    margin:0px;
+    padding:0px;
+}
+#config table tr td {
+    padding:10px;
+    text-align:left;
+}
+
+#config table tr td input.text {
+    width:300px;
+}
+
+</style>
+
+<body>
+<div id="config">
+    <form method="GET" action="/config/">
+    <table border="1" style="border:1px; border-collapse:0px;border-spacing:0px;">
+        <tr>
+            <td colspan="3" style="background:rgb(58, 11, 187);color:white;font-size:20px;font-weight:bold;line-height:20px;height:40px;">
+                直播答题小能手 by <a href="https://github.com/anhkgg/answerot" style="color:white;">anhkgg</a>. 
+            </td>
+        </tr>
+        <tr><td>配置项</td><td >内容</td><td>说明</td></tr>
+        <tr>
+            <td>设备序号</td><td><input class="text" type="text" name="device" value="{{result.device}}"/></td>
+            <td>通过adb devices获取，如61995125 device，填入61995125即可。<br/>如果adb devices只有一个设备不用配置该项。
+            </td>
+        </tr>
+        <tr><td>屏幕分辨率 width</td><td><input class="text" type="text" name="screenx" value="{{result.sx}}" /></td>
+            <td>设备屏幕像素宽度，默认1080px</td></tr>
+        <tr><td>屏幕分辨率 height</td><td><input class="text" type="text" name="screeny" value="{{result.sy}}" /></td>
+            <td>设备屏幕像素高度，默认1920px</td></tr>
+        <tr><td>百度图片识别API.client_id</td><td><input class="text" type="text" name="client_id" value="{{result.client_id}}" /></td>
+            <td>注册百度图片识别应用的client_id</td></tr>
+        <tr><td>百度图片识别API.client_secret</td><td><input class="text" type="text" name="client_secret" value="{{result.client_secret }}" /></td>
+            <td>注册百度图片识别应用的client_secret</td></tr>
+        <tr>
+            <td></td>
+            <td><input id="" type="submit" value="配置" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <p><b style="color:red">下面自动获取到的设备信息，可根据提示填入设备序号配置项：</b><pre style="background:black;color:white">{{result.device_info}}</pre></p>
+            </td>
+            <td><a href="/index">返回答题</a><br><a href="https://github.com/anhkgg/answerot">更多使用帮助</a></td>
+            <td><span style="color:red">提示：{{msg}}</span></td>
+        </tr>
+    </table>
+    </form>
+</div>
+
+</body>
+</html>

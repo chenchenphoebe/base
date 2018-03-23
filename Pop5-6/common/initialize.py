@@ -595,8 +595,14 @@ class Initialize(Common):
             self._logger.debug("Can not found the attachment icon .")
             return False
         if Type == 'Picture':
+        # if Type == 'Picture':
             if self._device(resourceId='com.android.mms:id/attach_image').exists:
+            # if self._device(resourceId='com.android.mms:id/attach_image').exists:
                 self._device(resourceId='com.android.mms:id/attach_image').click()
+                self._device(resourceId='com.android.mms:id/attach_image').click()
+                while self._device(resourceId='com.android.packageinstaller:id/permission_message').wait.exists(timeout=2000):
+                    self._device(resourceId='com.android.packageinstaller:id/permission_allow_button').click()
+                    self._device.delay(2)
                 while self._device(resourceId='com.android.packageinstaller:id/permission_message').wait.exists(
                         timeout=2000):
                     self._device(resourceId='com.android.packageinstaller:id/permission_allow_button').click()

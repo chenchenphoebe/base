@@ -37,6 +37,7 @@ logger.info("Trace Total Times " + str(test_times))
 
 
 def forward_msg(msg_type, key, network_type, wait_time):
+    # forward_msg('Text', 'SMSWiFi', 'WiFi', 60)
     global suc_times
     times = int(dicttest_times.get(key.lower(), 0))
     switch = True

@@ -221,8 +221,10 @@ class Common(object):
                 find_id = file.readline().strip()
                 if find_id.find('/') > -1:
                     return find_id[:find_id.index('/')]
+                    print(find_id[:find_id.index('/')])
                 else:
                     return find_id
+                    print(find_id)
             else:
                 line = file.readline() 
                           
@@ -328,4 +330,7 @@ class Common(object):
         self._logger.debug("Watchers:%s", list(self._device.watchers))
         if len(list(self._device.watchers)) == 0:
             return True
+
+
+
 

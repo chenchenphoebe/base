@@ -188,8 +188,8 @@ class Ctsverifier(Common):
                 self._device.delay(2) 
     #               self._device(scrollable=True).scroll.toEnd()
     #               self._device(scrollable=True).fling.toEnd()  
-        if self._device(resourceId = 'com.android.cts.verifier:id/pass_button').isEnabled:
-            self._device(resourceId = 'com.android.cts.verifier:id/pass_button').click()
+        if self._device(resourceId='com.android.cts.verifier:id/pass_button').isEnabled:
+            self._device(resourceId='com.android.cts.verifier:id/pass_button').click()
             self._device.delay(3)
             self._logger.debug('Audio Input Routing Notifications Test pass')
             return True
@@ -303,9 +303,9 @@ class Ctsverifier(Common):
             self._logger.debug('Camera Flashlight Test fail')
             return False   
         
-    def Camera_Formats(self,name):
+    def Camera_Formats(self, name):
         self.common_fuc(name)
-        Camera_name={0:'Camera 0',1:'Camera 1'}
+        Camera_name={0:'Camera 0', 1:'Camera 1'}
         
         Camera0={0:'176 x 144',1:'320 x 240',2:'352 x 288',3:'480 x 320',4:'480 x 368',5:'640 x 480',6:'720 x 480',7:'720 x 720',8:'800 x 480',9:'800 x 600',10:'864 x 480',11:'960 x 540',12:'1280 x 720'}
         Camera1 = {0:'176 x 144',1:'320 x 240',2:'352 x 288',3:'480 x 320',4:'480 x 368',5:'640 x 480',6:'720 x 480',7:'720 x 720',8:'800 x 480',9:'800 x 600',10:'864 x 480',11:'960 x 540',12:'1280 x 720'}

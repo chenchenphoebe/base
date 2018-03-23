@@ -25,6 +25,9 @@ class Page(object):
 
     def find_element(self,*loc):
         return self.driver.find_element(*loc)
+        # driver.find_element(By.ID, 'idInput')
+        # driver.find_element(By.XPATH, "//*[@class='btn']")
+        # driver.find_element(By.CSS_SELECTOR, "input>a")
 
 
 class LoginPage(Page):

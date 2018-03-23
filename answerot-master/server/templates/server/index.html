@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>答题小能手</title>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?0da84f365439da761b4d1e4c0775f33b";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+           
+</head>
+<script type="text/javascript">
+function init() {
+    var url = location.href;
+    var atype = document.getElementById("chongding");
+    if(url.indexOf("type=1") != -1) {
+        atype = document.getElementById("chongding");
+    }
+    else if(url.indexOf("type=2") != -1) {
+        atype = document.getElementById("jinri");
+    }
+    else if(url.indexOf("type=3") != -1) {
+        atype = document.getElementById("baidu");
+    }
+    else if(url.indexOf("type=4") != -1) {
+        atype = document.getElementById("youku");
+    }
+    if(atype != undefined) {
+        atype.checked = true;
+    } 
+    var search = document.getElementById("sbaidu");
+    if(url.indexOf("search=1") != -1) {
+        search = document.getElementById("sbaidu");
+    }
+    else if(url.indexOf("search=2") != -1) {
+        search = document.getElementById("mbaidu");
+    }
+    else if(url.indexOf("search=3") != -1) {
+        search = document.getElementById("sogou");
+    }
+    else if(url.indexOf("search=4") != -1) {
+        search = document.getElementById("google");
+    }
+    else if(url.indexOf("search=5") != -1) {
+        search = document.getElementById("bing");
+    }
+    else if(url.indexOf("search=6") != -1) {
+        search = document.getElementById("s360");
+    }
+    if(search != undefined) {
+        search.checked = true;
+    } 
+}
+</script>
+
+<body onload="init()">
+<div>
+<form method="GET" action='/index'>
+    <table>
+        <tr>
+            <td style="background:rgb(114, 231, 103);height:120px;">
+                <table style="padding:10px;">
+                    <tr><td><input type="radio" id="chongding" name="type" value="1">冲顶大会</input></td></tr>
+                    <tr><td><input type="radio" id="jinri" name="type" value="2">今日.百万英雄</input></td></tr>
+                    <tr><td><input type="radio" id="baidu" name="type" value="3">百度.极速挑战</input></td></tr>
+                    <tr><td><input type="radio" id="youku" name="type" value="4">优酷.疯狂夺金</input></td></tr>
+                </table>
+            </td>
+            <td style="width:350px;padding-left:20px;padding-right:20px;background:#fee;">
+                <table style="line-height:20px;">
+                    {% for d in result %}
+                    {% if forloop.first %}
+                    <tr><td style="font-weight:bold">{{ d }} <br/></td></tr>
+                    {% else %}
+                    <tr><td style="color:red;text-indent: 20px;font-weight:bold">{{ d }} <br/></td></tr>
+                    {% endif %}
+                    {% endfor %}
+                    <tr><td style="font-size: 12px">耗时：{{ time}} 秒</td></tr>
+                </table>
+            </td>
+            <td>
+                <input type="submit" name="submit" value="答题" 
+                style="width:140px; height:110px;font-size:60px;color:red;"  />
+                <p style="margin:0px;padding:10px;font-weight:bold;text-align:center;"><a href="/config/">初始配置</a></p>
+            </td>
+        </tr>
+        <tr><td colspan="3">
+            <table>
+                <tr>
+                    <td><input type="radio" id="sbaidu" name="search" value="1"><span style="color:red;font-weight:bold;font-size:20px;">百度</span></input></td>
+                    <td><input type="radio" id="mbaidu" name="search" value="2">手机百度</input></td>
+                    <td><input type="radio" id="sogou" name="search" value="3">搜狗搜索</input></td>
+                    <td><input type="radio" id="google" name="search" value="4">谷歌</input></td>
+                    <td><input type="radio" id="bing" name="search" value="5">必应搜索</input></td>
+                    <td><input type="radio" id="s360" name="search" value="6">360搜索</input></td>
+            </tr>
+            </table>
+        </td></tr>
+    </table>
+</form>
+
+</div>
+<iframe width = "100%" height="800px" src="/result/"></iframe>
+</body>
+</html>

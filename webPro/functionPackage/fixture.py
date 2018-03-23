@@ -8,10 +8,10 @@ class ProCert(unittest.TestCase):
         #执行转圈，无法执行
         # self.number = raw_input('Enter a number:')
         # self.number = int(self.number)
-        self.number = 10
+        self.number = 20
         self.number = int(self.number)
 
-
+    @unittest.skip("直接跳过")
     def test_ok(self):
         print self.number
         self.assertEqual(self.number, 10, msg='Your input is not 10')

@@ -1,0 +1,12 @@
+*** Settings ***
+Library           HttpLibrary.HTTP
+Library           SeleniumLibrary
+
+*** Test Cases ***
+TestCase2
+    [Documentation]    Follows a Redirect
+    Create HTTP Context    httpstat.us
+    get    /302
+    Response Status Code Should Equal    302
+    Follow Response
+    Response Body Should Contain    generating different HTTP codes

@@ -222,8 +222,8 @@ class Camera(Common):
                 self._logger.warning("Didn't find Delete button!")
                 return False
 
-        if self.get_file_num(StorePath_Media, file_type) == file_number - 1:
-            self._logger.warning("Delete %s successfully!", preview_type)
-            return True
+            if self.get_file_num(StorePath_Media, file_type) == file_number - 1:
+                self._logger.warning("Delete %s successfully!", preview_type)
+                return True
         self._logger.warning("Delete %s failed!", preview_type)
         return False

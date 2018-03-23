@@ -401,7 +401,7 @@ class Filemanager(Common):
             return False
 
     def back_folder(self, path):
-        """Back to filemanager folder given when switch to other apps
+        """c
         @param folder_name: folder name
         
         """

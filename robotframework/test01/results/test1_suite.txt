@@ -1,6 +1,6 @@
 
 *** Test Cases ***
 
-    test case1
+test case1
     log    robot framework
     log    python

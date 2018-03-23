@@ -2,7 +2,7 @@
 Library           Selenium2Library
 
 *** Test Cases ***
-     test01
+test04
     [Documentation]    测试淘宝
     Open Browser    https://login.taobao.com/member/login.jhtml    Firefox
     Click Element    xpath=//*[@id="J_Quick2Static"]
