@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'hanbei'
 import logging
 import os,sys
 # import globalparameter as gl
